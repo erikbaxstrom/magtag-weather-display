@@ -1,0 +1,3 @@
+this: https://learn.adafruit.com/magtag-weather/overview
+
+but the magtag occasionally struggles, or I accidentally press the reset button for to long...
